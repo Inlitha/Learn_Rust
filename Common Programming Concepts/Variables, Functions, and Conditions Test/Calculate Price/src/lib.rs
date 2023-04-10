@@ -1,3 +1,3 @@
-pub fn calculate_price(/* TODO */) /*TODO*/ {
-    /*write your solution here*/
+pub fn calculate_price(apple: i32) -> i32 {
+    if apple >= 40 {apple} else {apple * 2}
 }
