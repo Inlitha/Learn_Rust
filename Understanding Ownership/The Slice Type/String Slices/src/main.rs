@@ -1,5 +1,5 @@
 fn main() {
-    let mut s = String::from("hello world");
+    let s = String::from("hello world");
 
     let word = first_word(&s);
 
@@ -16,6 +16,6 @@ fn first_word(s: &String) -> &str {
             return &s[0..i];
         }
     }
-
+    println!("ok");
     &s[..]
 }

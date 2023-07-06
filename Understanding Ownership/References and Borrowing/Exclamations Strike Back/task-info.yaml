@@ -5,23 +5,23 @@ files:
   visible: true
   placeholders:
   - offset: 89
-    length: 6
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 89
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 1NKotBbBFUIQwKsGIJUG0w==
-  - offset: 242
-    length: 7
+  - offset: 244
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 244
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 6KEjz3s0ArZNAyZ0jsJtWg==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJpXru2uM7P7cW6qzOEkb5rgHK4zd2bAc5qSkCFQSkHXoKdgRpwlCbj481dJjO1LjbL9gZVJRrxs+9anexKHZg6rJe+xjvFj1qsQqbG55E8V6ExvFLToVffc/J7xG3KrVwMGkdb6KNQmC10byOE7XBZEartPdmAq3uhmPdTyxgxxQRSZm5I7atwRVLxUbooq3wopcCRWy0tu74hPwgSoNkcv06uMdliPMEs1VMIYdaKZRG+xQbySgPw6ZxlYKFXX0wdBsvWq3jv4SOa9S8NztIwiOl5OXbBKy9H/0cE/wDItpCVtYgdCq1wg2Ff1Mx1Rx68Y0J9ntQOD39+O3G+VwdbHqYNM3Jb2kNEim7i2hGIPy82zbfTnOiGkF6JnJUsVr5
@@ -36,7 +36,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Exclamations+Strike+Back
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 27 Apr 2023 10:53:03 UTC"
 record: -1

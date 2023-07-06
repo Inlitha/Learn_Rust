@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 21
-    length: 4
+    length: 31
     placeholder_text: /*insert here missing part(s)*/
     initial_state:
       length: 31
       offset: 21
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: c7PuLZhDhQrD0om4JOPwxw==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DLlfdF6Zm7odjOdtIU/D97hZWaRYp1sB6h2TpV7n9Ca69hzjNfnmHdtnZJB7c9zcKdIwca8xm99XqpPwRjWxwmuWM+uNw9+z599mSXEQZttRPLUrmC6ftIekdhBidB8pAAuHgOZDC18QKBQir5yz3iShDJ+f6BsZILCWsdE1wLtLpKljimloSXlQqa1Dsb3ZHg==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Variable+Type
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 05:49:20 UTC"
 record: -1

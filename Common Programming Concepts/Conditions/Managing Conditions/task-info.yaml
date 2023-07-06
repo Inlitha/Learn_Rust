@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 40
-    length: 54
+    length: 64
     placeholder_text: '!(!(number > 4 && number <= 9) && !(number > 0  && number <
       10))'
     initial_state:
@@ -26,6 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Managing+Conditions
 status: Solved
-feedback:
-  time: "Mon, 10 Apr 2023 06:33:09 UTC"
 record: -1

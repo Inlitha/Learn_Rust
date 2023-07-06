@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 46
-    length: 3
+    length: 35
     placeholder_text: /*insert the type annotation here*/
     initial_state:
       length: 35
       offset: 46
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: sCw8UVTDFHPQPxeqCo5bVg==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DAWqq+SLqxqKaGk4ib0M9i/rTgcQ2G/gdsavP/gHWpUUabAShvr/qrqATenBEpnmlkr1GUJ53n6ygSbZvzsMI3UvikLyjTqZa/ASF4UhWXag5PHiIxVc+57Fjo9mj4vEadrUGTKUr6W9JBqokCl8dz01ll3VQg3PPMH/UwQ6tkS6fbdf4CEewQTIXxNGMwEUqkg+At73NQGEPqSfWIJGa0U=
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Type+Annotation+of+a+Parameter
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 06:13:51 UTC"
 record: -1

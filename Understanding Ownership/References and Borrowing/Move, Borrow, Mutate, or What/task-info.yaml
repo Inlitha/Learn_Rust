@@ -4,44 +4,44 @@ files:
 - name: src/main.rs
   visible: true
   placeholders:
-  - offset: 93
+  - offset: 89
     length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 89
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: E0dke4ZnqfcQekd2Lh291w==
-  - offset: 167
-    length: 12
+  - offset: 163
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 163
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: M1k6QLajE5dBwz9fgFmmtg==
-  - offset: 202
-    length: 12
+  - offset: 194
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 194
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: dsqgndfAJPQS0hUl1AKyUA==
-  - offset: 284
-    length: 20
+  - offset: 272
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 272
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: AVSVBEJR4RQt8C/yRTJbDA==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DPxpLOXJuG3TL6ZB08HoHn15D24M6FeK25w0+FbyJZhX8gDJU3wHWUL/5Y5CmCh3hQbJ9y+fDc5Od6jBXcKKikzomWMoNRdYM7k8ToKtZvbnlpR5ePl+Gn3a6tjUSEWGv4vkov9Jv6nUmkBq/9Oa7UaXtddD3SYqHmV7bbkDUBl6pt5H5cLA3Y7L8BBvc2M2xKLlo0h9ROU34DVEagocQV0dQStVxCGr/s7lYEQDlcwmB5nsUQrLGCnb3ZsmKWY7uENg2BMHcysICYsF/XFJ3l739moDCkSwsRfjdq9fZSgglSyElSToewLOnFt8uIFebQvpx3FPUtVTCBOSE4IUnrwiMZRTlM6kMPeuDbZ0TkNsw3giIs4gznxzLq5RAdfxf/XWkvKlS9qSAnD6kDmLy4paXBDsWG2qBHWT4FpesPeJE7r1NOttw9EExsTSbBpHsTSjY0Lyf8Ish8c6GeRh++M=
@@ -56,7 +56,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Move+Borrow+Mutate+or+What
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 01 May 2023 06:45:25 UTC"
 record: -1

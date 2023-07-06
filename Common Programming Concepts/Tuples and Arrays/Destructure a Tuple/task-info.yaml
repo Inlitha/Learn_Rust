@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 59
-    length: 11
+    length: 30
     placeholder_text: /*destructure the tuple here*/
     initial_state:
       length: 30
       offset: 59
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: pGQSvVObzyhbKTIdEXzI/A==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DNSicseHoKD2N/axt1aoQvGq1eHwR7cOgwUhYJ4ABJBQx/Dkuz985Ti3hG8jRuE1sY+oTZ6lwgI8Yv0mQeU8FcAlLfnmQ6HYZDOkRUs9ep0WAeH7Cte2+4+FK982KCNeFZIA0UqdxA+xK2aYrwRYmgGpWNg4an+J3CiD5q6csOANHdDS/VXd1r9IARNjZLTT1w==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+Destructure+a+Tuple
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 06:36:32 UTC"
 record: -1

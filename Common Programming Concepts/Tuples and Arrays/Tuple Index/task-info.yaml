@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 81
-    length: 9
+    length: 65
     placeholder_text: /*Access the second element of the tuple here using tuple index*/
     initial_state:
       length: 65
       offset: 81
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: QKn6HuqfkBzEBdHbUXMatA==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DCyp+z+m8DBRwYtCpetGJ4TSmnK8dH0+p5+/M9hWw1gUX61CrMeoY9q1Z3O0W5RGksuGw7Fu4Zob7Faap6jaP08FsnaO4+/upgrVgk7kfFtSKfJQpult0iUvnQO2vWRUa42ugOJoTpj/Vl6aZbad3nUAzxAEx6cY9V9WHd0LbbfX89Uh5W43+lw0Qp57a79zTw==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+Tuple+Index
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 06:37:16 UTC"
 record: -1

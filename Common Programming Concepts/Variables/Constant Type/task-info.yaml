@@ -5,13 +5,13 @@ files:
   visible: true
   placeholders:
   - offset: 12
-    length: 6
+    length: 41
     placeholder_text: /* Something wrong with this constant! */
     initial_state:
       length: 41
       offset: 12
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: LG35Bvni2Yh7mxyjbIMzKg==
   encrypted_text: iQiO5La4kDYIuVVV7Oq9kiqEXcCRQLJ9Hn5mJ/cm9Qy08IQgQa6XxMOVDx6L7zLeNRWaY1xlII50VIUB+MxcgWx1rhV78StXFWuYXeNulL7Jn6H27PU7jH4zdPdTcX5gcoR8e9j2ouPsVDZ5UBft8w==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Constant+Type
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 05:51:59 UTC"
 record: -1

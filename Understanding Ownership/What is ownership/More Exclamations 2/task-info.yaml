@@ -5,33 +5,33 @@ files:
   visible: true
   placeholders:
   - offset: 60
-    length: 3
+    length: 37
     placeholder_text: /*insert the necessary keyword here*/
     initial_state:
       length: 37
       offset: 60
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
-  - offset: 85
-    length: 17
+  - offset: 123
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 123
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: nGdWP34mesrG5VAqqW+uYA==
-  - offset: 317
-    length: 3
+  - offset: 346
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 346
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJ1BHWcx/yM3oAWezSOg8GxV53eA90AekRUzvSGauJCwvWva74MBPGP6jkurJ9EluwGsF+3SjGEPlnSWL34+0mkRx+S6lAwagXvV9wVAob3ep7hqY0f92Hz1PRO+dvMvRZ5lZiGKuOkkeQGwNgnvIJZy+acMXVqO5NZky7cEVwZgY91OdRjN8sEeVscRKMuTuFOf+KNSjUGVWObVHXcTpFJaFksEjGBseEz72IF2Z/DNEasuZovv7bGdh0hHXYiYWUPIHhY1N7f29bkIevU2149dG05VvBOftRxCFAAd45D2vDmx1uJ6cTQ4n8eOBunUi0xoFJ5tGC7/8yaZeYNI4UvGlWDY4CbjWYo1tWEOztW2s0+QZInJ6uo14KHknhxNlJ6GiJ5gqufdT/pWVm6cVOCe6SqZgY1LwrU5XNRB0cDX0=
@@ -46,7 +46,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+2
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 26 Apr 2023 11:26:01 UTC"
 record: -1

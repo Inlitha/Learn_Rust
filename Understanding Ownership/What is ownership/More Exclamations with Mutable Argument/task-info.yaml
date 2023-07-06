@@ -5,13 +5,13 @@ files:
   visible: true
   placeholders:
   - offset: 240
-    length: 3
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 240
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJpXru2uM7P7cW6qzOEkb5rgHK4zd2bAc5qSkCFQSkHXrXowYhSbzLXSGSN3Czwe88H8yFKoTkVvwwOj+o8+5aXqoQS3T6+sG2I8fsyVjMHtE5zQuCiKXHOlefA3/20nRtjBVCnmuSc+Dfj9MLqu4ljNdmH8EcDxxR47vKGBp1mollFqlqFQ6tQ+HgaubLgPV1Pzro502l1w2VlJ6RJsjqMZmAHhfESpdSS+fmVWsAViexTql4CfQOnB6sveJh5d/DriIiGzVORwvPkP61CnMx7WpyDraUKxR5Hfydy6uXmAgqfFdzALz04a1ZdM8YMadnltrpOK6rpefULgSTijNW1A==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+with+Mutable+Argument
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 26 Apr 2023 11:27:15 UTC"
 record: -1

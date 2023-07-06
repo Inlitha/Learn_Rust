@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 16
-    length: 3
+    length: 7
     placeholder_text: '//TODO:'
     initial_state:
       length: 7
       offset: 16
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 0iV8NCCPfPrcuz8qxwUXSg==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DH2heQ9OcAOBNkigOKpmuRKTxAnW+WKPmSE3gKJEnWtM/XVV51XiFQeVvvZHhlhVaLl1TMDqDucHHQ83vrSOo2Y=
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+New+Variable+Binding
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 29 Mar 2023 12:42:11 UTC"
 record: -1

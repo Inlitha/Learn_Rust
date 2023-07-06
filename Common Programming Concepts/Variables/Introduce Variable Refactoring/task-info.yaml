@@ -4,17 +4,17 @@ files:
 - name: src/main.rs
   visible: true
   placeholders:
-  - offset: 64
+  - offset: 36
     length: 4
     placeholder_text: 1993
     initial_state:
       length: 4
       offset: 36
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
-  - offset: 100
+  - offset: 72
     length: 4
     placeholder_text: 1993
     initial_state:
@@ -24,7 +24,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
-  - offset: 133
+  - offset: 105
     length: 4
     placeholder_text: 1993
     initial_state:
@@ -42,6 +42,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Introduce+Variable+Refactoring
 status: Solved
-feedback:
-  time: "Mon, 10 Apr 2023 07:16:57 UTC"
 record: -1

@@ -5,27 +5,27 @@ files:
   visible: true
   placeholders:
   - offset: 76
-    length: 4
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 76
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: w5K+Pp9Ux+ipRhUCT+Yq/A==
-  - offset: 155
-    length: 4
+  - offset: 159
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 159
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: w5K+Pp9Ux+ipRhUCT+Yq/A==
-  - offset: 238
-    length: 4
+  - offset: 246
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
@@ -46,7 +46,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+The+Last+Revenge+of+Exclamations
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 01 May 2023 06:16:23 UTC"
 record: -1

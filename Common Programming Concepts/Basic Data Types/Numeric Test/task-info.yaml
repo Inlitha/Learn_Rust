@@ -9,23 +9,23 @@ files:
   visible: true
   placeholders:
   - offset: 43
-    length: 7
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 43
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: T8AiSMXdLBzRojlDnyN8kw==
-  - offset: 100
-    length: 7
+  - offset: 101
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 101
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: T8AiSMXdLBzRojlDnyN8kw==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DHFtWRnV2U4d05Rw85Ug1eWgd2qlgk4aF1+clzOL7UU8Cv6bZbXHdnbDAKZqb4TWYq2U0b1k9zgZta2ztD1hfzERWYrJIoSppndmC2OeeA6Z/AYVlLfuG6agjz1SHyoosyKNjflapXnLBRww4ZOAum4xPOHdJtTozTxPdiDqQQxJ0pF42ViqkUKydwkFxi3ms7JCLXaKTJdPNtNvTFq5dMPLAdcspZPm+1/EScpB4Ez0WaHgTsXgQO5xoTVzDc0qmA==
@@ -36,7 +36,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Numeric+Test
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 05:57:28 UTC"
 record: -1

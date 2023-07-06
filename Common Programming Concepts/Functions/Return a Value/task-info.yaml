@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 118
-    length: 6
+    length: 23
     placeholder_text: /*you could type here*/
     initial_state:
       length: 23
       offset: 118
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: M9w9JIYa92myCtgrf2RsDA==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DKd4hDQbNn2dIxvaJfPjDVqacXJiApjzNetmhHi1Iio0jUnEDvMgOsDycBzb8XFTRJQbabDjQ3NJ3dOTNSLlhJvv7ZfcIQNtzl4wkT+k1f0rO8ElNKVpigvw8wV1Vs6kckgt2nC+BoR1rvqHQnssI2NnolY5EK3UiS0T1oMb7p1ZllZ8cgW8NJnNtWBlf/+3Bg==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Return+a+Value
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 06:22:59 UTC"
 record: -1

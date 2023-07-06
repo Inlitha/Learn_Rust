@@ -35,13 +35,13 @@ files:
     status: Solved
     encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
   - offset: 270
-    length: 15
+    length: 36
     placeholder_text: /* Create the "Hello" string here */
     initial_state:
       length: 36
       offset: 270
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 3KlpHielozCzXYz7Mc5Y1XNx0Nl2Um2fwvqgN1Ye19SggiBCdlz3qw+7R4bhvYe6
   encrypted_text: 3l1qXm1V/JSV39wy1IBXqXGxM2nKj20jTO9B1EUC11ItpnI5ROXiI8wnr+MOCsp+Fcd0W4PoKnHSWtScroyEXvx4jkZBr9tQ0cpregQ++2Pf8dwpO/olCYKfzUEI5tEWr4bh+enFr0pW/DnKibPfONSJAQP8abZxkUuJwS7SvZL9UM4Aa/rGc1CU3m6biG50c7h0h5RQUJ5fMV7vZ/oWr+4Ifil1DmexnVkIMZLlQMvWRUuXSeyRcSDeO2gcn0w0rEZJv4/9gZSnflHMuQKSgCtzfuAu+1qK/z8Br+oYmNMPBr78/CexAIitAL3ovA3VRNakcLRoP/jwscCX4Kja8UzfL5zuJ4Frhfb5+yLxadtBDyxkGiuByz8v1R76qkpxRs3iurbo05TuEyOBkGCfjjUNOtseRelPla2arNE2zO0S8LGZRzYWCp/dNps48k3w78JUMQZFtS6j+V9V0whMrw==
@@ -56,7 +56,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+without+Arguments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 26 Apr 2023 11:28:49 UTC"
 record: -1

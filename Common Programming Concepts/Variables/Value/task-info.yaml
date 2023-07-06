@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 21
-    length: 9
+    length: 5
     placeholder_text: ": i32"
     initial_state:
       length: 5
       offset: 21
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: q38dtQFc7zJNQoKZOoMf9g==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DJSwmV7OIuVz8W+4QLcj5i0Ru1PgrD3/h47AxaQGjpJZTkz3rJM5PAW83OWQ+B2zBw==
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Value
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 10 Apr 2023 05:50:28 UTC"
 record: -1
