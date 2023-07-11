@@ -9,37 +9,37 @@ files:
   visible: true
   placeholders:
   - offset: 32
-    length: 30
+    length: 22
     placeholder_text: // Something goes here
     initial_state:
       length: 22
       offset: 32
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 2TFBeVRnPG4MTz5iIb4DawSsft8MQUJShEaaJ5fbdjA=
-  - offset: 90
-    length: 14
+  - offset: 82
+    length: 25
     placeholder_text: /* Something goes here */
     initial_state:
       length: 25
       offset: 82
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: qxg/GOfAZHkMDjG2Cnq5hw==
-  - offset: 171
-    length: 97
+  - offset: 174
+    length: 34
     placeholder_text: // Instantiate a classic c struct!
     initial_state:
       length: 34
       offset: 174
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: WOsj8dMDHAgxl7zblUXNzzZjrZ/3E2YO07/i85T7zTRUlZzQnd0Wf/NEo1ryBwfqLOGbkqqv+NE18lJqtJOolBPPNpm2naFLD9itLJOpL3kZnEfnYIznaaut3Icc/glmNtUjgwTTYBdCTOMVp1fgfw==
-  - offset: 346
-    length: 61
+  - offset: 286
+    length: 30
     placeholder_text: // Instantiate a tuple struct!
     initial_state:
       length: 30
@@ -56,7 +56,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Play+with+Color+Structs
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 06 Jul 2023 09:56:19 UTC"
 record: -1

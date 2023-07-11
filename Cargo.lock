@@ -1137,6 +1137,9 @@ version = "0.1.0"
 [[package]]
 name = "show_type"
 version = "0.1.0"
+dependencies = [
+ "escargot",
+]
 
 [[package]]
 name = "similarities_between_refcell_rc_and_mutex_arc"

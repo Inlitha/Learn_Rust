@@ -9,13 +9,13 @@ files:
   visible: true
   placeholders:
   - offset: 63
-    length: 8
+    length: 39
     placeholder_text: //type the invocation of the slice here
     initial_state:
       length: 39
       offset: 63
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: v4qK1VLqNIpP47xlkBWKbA==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DMBeHJpDjB3ZlodS77ATN6QdOkS+6MyiYOCwmcmmDN8PGppYj02rcYYgGvJ0KbXqcld0V5RH/jBgpHpI8T3T0lLp0CEPVIS9kfAiWAgZscx5YBPnKvnxLQFJtWbVM92D7oI+wCLSbMqLE7QfNYRwMgV8iSq1UUSi+gynFHgTluMXxLrAciBcoPBaXreBoVqZT2uGRGaiYAK49J93Eswcc7v5ZQ5oYIYVIkgS/7Kmq4PEDq6n1uR/y+Vq0+sv7WrIp4WQ5rbz6CotRXoeiNtScqsb6ICZGimB5yRqlU/9ft5He9i7joRxReT1qd7aE+IKX3BkFOUeP3P4nWnU+sBAhFo=
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Nice+Slice
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 06 Jul 2023 09:01:09 UTC"
 record: -1

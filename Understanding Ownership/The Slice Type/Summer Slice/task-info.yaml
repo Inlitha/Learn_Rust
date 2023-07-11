@@ -8,14 +8,14 @@ files:
 - name: src/main.rs
   visible: true
   placeholders:
-  - offset: 203
-    length: 13
+  - offset: 199
+    length: 6
     placeholder_text: months
     initial_state:
       length: 6
       offset: 199
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 67ShoB7s3l6FEuFccLvbTw==
   encrypted_text: sl3O59VlDkdl7u9JaiP8DMGBJgZKiauC+HllE7NGseyaod7TefOY/dfm19x5TLgqmK7NKe9FhYumSsvBdNRS9TCyTRTS5Y4pf5cKX1RgmijdflIkMyDSWI19XukRnMFEs/pHRJORor2rrzXPVZcAC6z0xvdLMq+IegWraqCpF99P0dphwf3BKJ/0J2KxNjZ+iF7NluOnFt55U3TjHKj9EiY4AyoBq5Qu4/iUX6lrLzDl/yHDUkINZL3Fb3TaAylzRMxOUrNinHIuy9ikDIU8Y6nwe5Oyf8c7eKf+xeyedac=
@@ -26,7 +26,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Summer+Slice
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 06 Jul 2023 09:07:40 UTC"
 record: -1
