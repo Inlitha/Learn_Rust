@@ -447,6 +447,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Times Two Tests/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Times Two Tests/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Unit Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Understanding Types/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
