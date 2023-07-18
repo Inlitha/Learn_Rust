@@ -12,5 +12,6 @@ fn main() {
     let y: Option<i8> = Some(5);
 
     // !!! ERROR
-    // let sum = x + y;
+    let sum = x + y.unwrap();
+    println!("{:?}", sum);
 }
