@@ -1,6 +1,17 @@
+use Message::ChangeColor;
+
 #[derive(Debug)]
 enum Message {
-    // TODO: implement the message variant types based on their usage below
+    ChangeColor(i32, i32, i32),
+    Echo(String),
+    Move { x: i32, y: i32 },
+    Quit,
+}
+
+impl Message {
+    fn ChangeColor(&mut self){
+        return self::ChangeColor;
+    }
 }
 
 #[derive(Debug)]
@@ -34,6 +45,17 @@ impl State {
 
     fn process(&mut self, message: Message) {
         // TODO: create a match expression to process the different message variants
+        if let message = Message::ChangeColor {
+            self.change_color(message.ChangeColor());
+        }
+        else if let message = Message::Echo {
+            self.echo(message.Echo());
+        }
+        else if let message = Message::Move {
+            let p = message.Move;
+            self.move_position(p);
+        }
+        else if let message = Message::Quit { self.quit(); }
     }
 }
 
@@ -43,7 +65,7 @@ fn test_match_message_call() -> State {
         position: Point { x: 0, y: 0 },
         color: (0, 0, 0),
     };
-    state.process(Message::ChangeColor(255, 0, 255));
+    state.process(ChangeColor(255, 0, 255));
     state.process(Message::Echo(String::from("hello world")));
     state.process(Message::Move{ x: 10, y: 15 });
     state.process(Message::Quit);
