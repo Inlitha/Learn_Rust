@@ -2,17 +2,12 @@ use Message::ChangeColor;
 
 #[derive(Debug)]
 enum Message {
-    ChangeColor(i32, i32, i32),
+    ChangeColor(u8, u8, u8),
     Echo(String),
-    Move { x: i32, y: i32 },
+    Move { x: u8, y: u8 },
     Quit,
 }
 
-impl Message {
-    fn ChangeColor(&mut self){
-        return self::ChangeColor;
-    }
-}
 
 #[derive(Debug)]
 struct Point {
@@ -45,17 +40,21 @@ impl State {
 
     fn process(&mut self, message: Message) {
         // TODO: create a match expression to process the different message variants
-        if let message = Message::ChangeColor {
-            self.change_color(message.ChangeColor());
+        match message {
+            Message::ChangeColor(r,g,b) => self.change_color((r,g,b)),
+            Message::Echo(str) => self.echo(str),
+            Message::Move {x,y} => {
+                let p = Point{x, y};
+                self.move_position(p);
+            },
+            Message::Quit => self.quit(),
         }
-        else if let message = Message::Echo {
-            self.echo(message.Echo());
-        }
-        else if let message = Message::Move {
-            let p = message.Move;
-            self.move_position(p);
-        }
-        else if let message = Message::Quit { self.quit(); }
+        /*if let message = Message::ChangeColor {
+            let r g b = Message::ChangeColor(r,g,b);
+            self.change_color((r,g,b));
+        } else {}
+        if let message = Message::Echo(str) => self.echo((str));
+        if let */
     }
 }
 
@@ -65,7 +64,7 @@ fn test_match_message_call() -> State {
         position: Point { x: 0, y: 0 },
         color: (0, 0, 0),
     };
-    state.process(ChangeColor(255, 0, 255));
+    state.process(Message::ChangeColor(255, 0, 255));
     state.process(Message::Echo(String::from("hello world")));
     state.process(Message::Move{ x: 10, y: 15 });
     state.process(Message::Quit);
