@@ -19,4 +19,5 @@ fn main() {
     let hello = String::from("Olá");
     let hello = String::from("Здравствуйте");
     let hello = String::from("Hola");
+    let hello = String::from("Bonjour");
 }
