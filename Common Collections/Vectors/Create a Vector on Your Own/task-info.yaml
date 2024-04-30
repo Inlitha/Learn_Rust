@@ -11,9 +11,10 @@ files:
           length: 10
           offset: 118
         initialized_from_dependency: false
+        encrypted_possible_answer: FJ8S1FxPC8dh+Isw6daPCw==
         selected: true
         status: Solved
-        encrypted_possible_answer: FJ8S1FxPC8dh+Isw6daPCw==
+        is_visible: false
       - offset: 141
         length: 0
         placeholder_text: /* TODO */
@@ -21,9 +22,10 @@ files:
           length: 10
           offset: 143
         initialized_from_dependency: false
+        encrypted_possible_answer: ljYg80GtwiD8wzlesR2aYGVecsZHzoM8X2e2D9xfP/I=
         selected: true
         status: Solved
-        encrypted_possible_answer: ljYg80GtwiD8wzlesR2aYGVecsZHzoM8X2e2D9xfP/I=
+        is_visible: false
     encrypted_text: UFPjAAgVzP4QoGrZ+qtZidymE8Qyx5EUfMYbZe5y5ptBDhFH2ZzKeEgAJCFGG2hjDF6Mh50ZqoRm0o1ZNRYR04Bt6W2LUuGGIezAinWNytYoA1uEm8c4UgZtfcd9MTQmmDQRAefs7Bz7KpdvKDrDrOPEcgnM6y2WvdhY0eYaAUubc7zvsFlnAJsjCulkbL6AncROn0vLHhV0EMq1crsHC2gmy/5hlx7rQifH7YcT2CI=
     learner_created: false
   - name: src/main.rs

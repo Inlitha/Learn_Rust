@@ -23,9 +23,10 @@ files:
           length: 39
           offset: 60
         initialized_from_dependency: false
+        encrypted_possible_answer: 0w8qf2kJhkePUlHZgwRzTw==
         selected: false
         status: Solved
-        encrypted_possible_answer: 0w8qf2kJhkePUlHZgwRzTw==
+        is_visible: false
       - offset: 77
         length: 79
         placeholder_text: // Fill this up so that each element in the Vec `v` is multiplied
@@ -34,9 +35,10 @@ files:
           length: 71
           offset: 110
         initialized_from_dependency: false
+        encrypted_possible_answer: QQkOdZrK1ecvHJkXTJr3WQ==
         selected: false
         status: Solved
-        encrypted_possible_answer: QQkOdZrK1ecvHJkXTJr3WQ==
+        is_visible: false
     encrypted_text: VaQcRwByVPots+MoZue3411O+gQ4lYrHrIzd3AVnZolw674D890u+TCc1y5R+XgA6r+sBsdNv8hdt4gZRNerDycWRXd9MdvpVpbYXcPg12xtSYazvO7B4rNCrNqsVeYkV2zT8/BQkHKpno37vEw2W0B42i6Re3jOZgNcjn+nZaOd7VamZJvtZZqwIHQnKZqr/h8TvCJ+X0SUJM6gogxVh6UdSZEUTILEgHi5EuPjlFbxyRtiC7BqLnlWi6V+P+GZwInDjvg5y8zHbJnvynQyYRvetAmRdFMOEkxlku6SCHUQ4T6N3xlwy1ur4iwmbZhs4YKw1e4gCsbQjbkzHhxnRIkOFA2BmLbA1wBagXZVeOo=
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Loop+Over+a+Vector

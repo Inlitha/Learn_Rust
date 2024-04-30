@@ -15,9 +15,10 @@ files:
           length: 4
           offset: 118
         initialized_from_dependency: false
+        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
         selected: false
         status: Solved
-        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
+        is_visible: false
       - offset: 175
         length: 6
         placeholder_text: TODO
@@ -25,9 +26,10 @@ files:
           length: 4
           offset: 136
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: false
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
       - offset: 206
         length: 6
         placeholder_text: TODO
@@ -35,9 +37,10 @@ files:
           length: 4
           offset: 165
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: false
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
       - offset: 238
         length: 6
         placeholder_text: TODO
@@ -45,9 +48,10 @@ files:
           length: 4
           offset: 195
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: false
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
       - offset: 277
         length: 6
         placeholder_text: TODO
@@ -55,9 +59,10 @@ files:
           length: 4
           offset: 232
         initialized_from_dependency: false
+        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
         selected: false
         status: Solved
-        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
+        is_visible: false
       - offset: 312
         length: 6
         placeholder_text: TODO
@@ -65,9 +70,10 @@ files:
           length: 4
           offset: 265
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: false
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
       - offset: 364
         length: 12
         placeholder_text: TODO
@@ -75,9 +81,10 @@ files:
           length: 4
           offset: 315
         initialized_from_dependency: false
+        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
         selected: true
         status: Solved
-        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
+        is_visible: false
       - offset: 410
         length: 12
         placeholder_text: TODO
@@ -85,9 +92,10 @@ files:
           length: 4
           offset: 353
         initialized_from_dependency: false
+        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
         selected: true
         status: Solved
-        encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
+        is_visible: false
       - offset: 453
         length: 6
         placeholder_text: TODO
@@ -95,9 +103,10 @@ files:
           length: 4
           offset: 388
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: false
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
       - offset: 517
         length: 6
         placeholder_text: TODO
@@ -105,9 +114,10 @@ files:
           length: 4
           offset: 450
         initialized_from_dependency: false
+        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
         selected: true
         status: Solved
-        encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
+        is_visible: false
     encrypted_text: EMLqhDuENHU7AxPDLygKqxXUnIDzBqS0OlFbCWIsioI8JAh56AHU8F/BsI5XdMNkk5ernguHhtOK2+1v24wCkea4Uw1PV6a5NCJIaXq3jktsNOfJMCyzV+UQayqB1eH2SoPhNA9ltGPnh0j1E38rWSySxlBDNc+VWUncv4zOCoMPalmm+/UrpyFDf+GCYHZ+WNxxXHUayadaOsU6y3rrvUlIfGAqCCdfPD4bxABTlrjjYKSHEeGHyPOUh0f3s8CIqP4jhDjruPtYbONrYM0mr43HopM1NKh03gzcns8D33fBv9Rv/uxa5amcxGcMY73X1uqEZ5pomlE6EWQEatVqLzenZyPCNAuf1DuIAXUt5piIZgoQJVQ29G48EKAmwYY0WJtcGT9sDzr4dsLPRJ52TPCVchhHm/Y+cQxHRfAZ7sUQKSwRfoitZOB7CEplMe0ZxgeTReRlNdvaE0GTo0dfkG7bI87xN1ROk3rBboJzp1wBHJGsWe8IhmmmNkTQUS7dD9HNKXJ8q4su2Q4cP0mKvT+ufhCORGy8icMkBErvkTfugmCEo6IhjQqXgWL3gz8j1NI5Ei3XD7QeWof+rfKH59FBEqJNAT/CwsGtqnh+e0f5AgLvoShyglRwYYE3aNNR0fS7oqU0L3ze5GCJw6x6k/1H2GFBq9x+haFSC67yWcI=
     learner_created: false
   - name: tests/tests.rs

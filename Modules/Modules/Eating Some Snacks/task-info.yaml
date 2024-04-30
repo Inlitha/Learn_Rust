@@ -16,9 +16,10 @@ files:
           length: 69
           offset: 27
         initialized_from_dependency: false
+        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
         selected: true
         status: Solved
-        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+        is_visible: false
       - offset: 57
         length: 5
         placeholder_text: /*TODO*/
@@ -26,9 +27,10 @@ files:
           length: 8
           offset: 123
         initialized_from_dependency: false
+        encrypted_possible_answer: xRV66TSis6H1Fs2VOU4Q7Q==
         selected: true
         status: Solved
-        encrypted_possible_answer: xRV66TSis6H1Fs2VOU4Q7Q==
+        is_visible: false
       - offset: 68
         length: 3
         placeholder_text: /*insert a modifier here to make the module accessible from
@@ -37,9 +39,10 @@ files:
           length: 69
           offset: 137
         initialized_from_dependency: false
+        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
         selected: true
         status: Solved
-        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+        is_visible: false
       - offset: 103
         length: 6
         placeholder_text: /*TODO*/
@@ -47,9 +50,10 @@ files:
           length: 8
           offset: 238
         initialized_from_dependency: false
+        encrypted_possible_answer: eg+Zq4s8fjfEhZGf8vhk+g==
         selected: true
         status: Solved
-        encrypted_possible_answer: eg+Zq4s8fjfEhZGf8vhk+g==
+        is_visible: false
     encrypted_text: uU+KhGTqreehqC1klbvgkpvWy5YgJ5bZJRCISwgHI8M47RR3junCK3JUlBDbB1TAbJ6gUEWdUmoa3CqoQLvIaobIrq6lNkeD2YlCfUlsfvcqxUSIrELkdi3fmgxX+JnrLuRecKW6BGJq+ImZZu8H7lXTR+wswWuXlaGNyOiNoDhNpzFmfRhIsoO9TWbZEhb9hAfXvb/9sSaDAPuixLHqR7L2xoH56F/HKaRVLegW4e1aewwJNgEDhWtNyKQ76Wut63/AYNJuzzKtjw24S8VOUvpo2cxCcxODMlqGAF4uLVBrZ27o9URRfwVL5R+JzHCvycvvneJP9Mt8avxcggqT2yoj5t0i9JGelnj/yp7MlllJr/6GKLl2i1fhFfm4vy4fQkQ/PQryP9c2awicnfivlqtOdvHNrCqt/vPQL1KGg8pqsG2GRnzbZBTpkzCHIufKT0sD+LUU/0jhWFmcBRSGVxsSlJ1e5Pkaf6g+G2Et5KhH59X8MVwBvwsuTpYZ2tbE54IR6lmT/rqGkdnn33Eq3KSILDCTOwDu/0sSEoV79LRb54vi6tey2iXpOJ86UrEsRoDQpZ9W2vsF7rnrVJz4uUJ88E4rBiIT0bTV1xqIScRdx3QWAv4csabH9uHtVxe7mEHs6cBneBt3KBeehQGx0ghr5hvLJ8aq9Y7+lmHFGSQWjWykWtihegN7Mmi+NwpVkTgJY+PllrsVy6sPq0mfXftShavKekS/HlKbTibxLI1QNaYMnHnuwmUqfqoTHWgYe3maYgF02MMUV6L3HzAFJeg5Ztqq381wf3fHXKyrRyE=
     learner_created: false
   - name: tests/tests.rs

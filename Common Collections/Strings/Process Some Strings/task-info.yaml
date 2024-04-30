@@ -11,9 +11,10 @@ files:
           length: 57
           offset: 44
         initialized_from_dependency: false
+        encrypted_possible_answer: Eknb9TnhYi0XAuajtsDmIrfBiW+3mVBceW5eCgQzGqY=
         selected: true
         status: Solved
-        encrypted_possible_answer: Eknb9TnhYi0XAuajtsDmIrfBiW+3mVBceW5eCgQzGqY=
+        is_visible: false
       - offset: 181
         length: 112
         placeholder_text: "/* TODO: Add \" world!\" to the string! There's multiple ways\
@@ -22,9 +23,10 @@ files:
           length: 74
           offset: 152
         initialized_from_dependency: false
+        encrypted_possible_answer: OUDT2+puZVueebHzAcvRENfUGuaGm/tx6jOBx+o0/89LBY18qCKWl/rOmFu++LlW
         selected: true
         status: Solved
-        encrypted_possible_answer: OUDT2+puZVueebHzAcvRENfUGuaGm/tx6jOBx+o0/89LBY18qCKWl/rOmFu++LlW
+        is_visible: false
       - offset: 344
         length: 95
         placeholder_text: "/* TODO: Replace \"cars\" in the string with \"balloons\"!\
@@ -33,9 +35,10 @@ files:
           length: 57
           offset: 277
         initialized_from_dependency: false
+        encrypted_possible_answer: KSBOl1iExiVHtA8xia5cRN8BHSXNiIHBZ5inm72iqpEuUrZ+MERE6BUmz2tzz7QL
         selected: true
         status: Solved
-        encrypted_possible_answer: KSBOl1iExiVHtA8xia5cRN8BHSXNiIHBZ5inm72iqpEuUrZ+MERE6BUmz2tzz7QL
+        is_visible: false
     encrypted_text: UdzV8IOULOvQLde5YgxjMIIfNtwBy4L24tVyUFgMszL1Vd1CoGctbXd0p37cOx+fcGstO22WB4EsbcSjya+HKkwGWDXmdc27FnKALa+nQR6ueRmGZmZPTfOFrnf0wUFn+TkNHUxGgUp+IZ+1OZPbFx9XpEHw5R9NmHdmfOyIT5Nxb6kNfu7SdwI9xluSY972YAF76K51H4m+8XwTG0sKlG3KT2nlymtLpUuJpfHnSW2yhlFpQglfGWVH7QeZZ+QZ2e41U32CjHsIfTuSPJR5fKlsaYw2m2d+s4pYcYwI6Ili0cjpKsoiDiRT7cHtwxKqUDJiUvB6gHluqHgbx4LvNolU+GwYLr9AX+fpvg/WPlgX9fOsrtFBLUwIKgk7OSVTYxgVOpHniZcPXDJrtaX3cJmPkqHbS89mjsniEFAJ4nGmV81FDGzqOoCiW7AnvaJpATPOkTjNXLfEYS7ftMyYQg==
     learner_created: false
   - name: src/main.rs

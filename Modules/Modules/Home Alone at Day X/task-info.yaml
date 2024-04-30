@@ -23,9 +23,10 @@ files:
           length: 29
           offset: 0
         initialized_from_dependency: false
+        encrypted_possible_answer: Cy55l4A5Hl+I7c8CzfSSn8zUzR2MMfJAd+1jyDbOvRELM+RQBhdd6pUmvewzLCmlH3Yx5OsbiOsollDa88XCQ6/L/RTchIfeeD0MTS95QCrokpefZYpMeji6RF0Ioxydeu2prYHLlaGHbGhHQQGX8mAAwY5uRuNWcxTULr6W29HSVW0eL5CBzqZ0IsjF6ovt/XjWXKsE249+dT0QT7C9pQsyMHpX1Aso/uy6fHE4nKA=
         selected: true
         status: Solved
-        encrypted_possible_answer: Cy55l4A5Hl+I7c8CzfSSn8zUzR2MMfJAd+1jyDbOvRELM+RQBhdd6pUmvewzLCmlH3Yx5OsbiOsollDa88XCQ6/L/RTchIfeeD0MTS95QCrokpefZYpMeji6RF0Ioxydeu2prYHLlaGHbGhHQQGX8mAAwY5uRuNWcxTULr6W29HSVW0eL5CBzqZ0IsjF6ovt/XjWXKsE249+dT0QT7C9pQsyMHpX1Aso/uy6fHE4nKA=
+        is_visible: false
       - offset: 296
         length: 18
         placeholder_text: /* What's Alice doing here? */
@@ -33,9 +34,10 @@ files:
           length: 30
           offset: 137
         initialized_from_dependency: false
+        encrypted_possible_answer: 44q96sd5Yzk1SxMEbCvqlPtgE9fqkpFVLMcRzrq0/cSqHMsQdDss9cGpD0OZ1DGL
         selected: true
         status: Solved
-        encrypted_possible_answer: 44q96sd5Yzk1SxMEbCvqlPtgE9fqkpFVLMcRzrq0/cSqHMsQdDss9cGpD0OZ1DGL
+        is_visible: false
     encrypted_text: aZytHpxZ5MoexgToa1It3yrcaVhKY8fadLjS6tYY9Y5m+l/zXskFAE3ap+l0VLraV2RM0zeItZBoz4X3nZnZEYDNqCZpYSYyOaOVJ67ZLwPxrL86F62hL15yGeZBaWgUq38BNFkQRVC8nsIs949jaC90/Xc1muQoMybRk0v7pLXFOMg0UZKhgbd0W5XDfkibQBKGSrRu7RCKTr3UUPNgibSDTyCO3J9DCKc8NrKUOxE=
     learner_created: false
   - name: src/ground_floor/big_hall.rs
@@ -80,9 +82,10 @@ files:
           length: 9
           offset: 0
         initialized_from_dependency: false
+        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
         selected: true
         status: Solved
-        encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+        is_visible: false
     encrypted_text: sPjji+m98d3Pjzl5ovNG1u7+Q1UUgg6B6V/0nsLpRKClhLpEuu7cd7zMy5nOi5qg7n5YUGBxR8HnvZEwgPgrnA==
     learner_created: false
   - name: src/ground_floor.rs

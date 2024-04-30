@@ -11,9 +11,10 @@ files:
           length: 10
           offset: 329
         initialized_from_dependency: false
+        encrypted_possible_answer: Lh6PsScdVvMeSUxghw/ftA==
         selected: true
         status: Solved
-        encrypted_possible_answer: Lh6PsScdVvMeSUxghw/ftA==
+        is_visible: false
       - offset: 350
         length: 170
         placeholder_text: /* Add match cases */
@@ -21,9 +22,10 @@ files:
           length: 21
           offset: 372
         initialized_from_dependency: false
+        encrypted_possible_answer: 4kd66SVqtS6esdj5aJ1Oo9SEaRKuikmv12Epc4AxfTi48eV0Vx1zN/vnc5iHiGsjbTNlVa5iKkXscAvNaeoG9OmtsTZzWMpkX5b+cerQUYOJxU4c9vSTN8SrwMxrjZ/MJTAefu82qUceRMxa+y3EHBcpVGEd3epDcSVpBiUD2OQL33rGAtVJZnz9psSHXBEefY+u7/rogGog8y8hf9+uHejyh8Q8CSioYrRaPBGMapU=
         selected: true
         status: Solved
-        encrypted_possible_answer: 4kd66SVqtS6esdj5aJ1Oo9SEaRKuikmv12Epc4AxfTi48eV0Vx1zN/vnc5iHiGsjbTNlVa5iKkXscAvNaeoG9OmtsTZzWMpkX5b+cerQUYOJxU4c9vSTN8SrwMxrjZ/MJTAefu82qUceRMxa+y3EHBcpVGEd3epDcSVpBiUD2OQL33rGAtVJZnz9psSHXBEefY+u7/rogGog8y8hf9+uHejyh8Q8CSioYrRaPBGMapU=
+        is_visible: false
     encrypted_text: gR9y6/Cu26IdjPA7GWTGLTAaw6pNm9z/th/5OT9LlxfaWwQI2OYNTDJi9LP6UDt88f2O55pHE2DVbGu0t38XJip/YgzGFQiOSWSuFZwGn3bv/t2BnCjlKz+toq7MazfaqZk/pNAzu9DPmz+6X/xb40mlQ7OuuDYMQ/AETgDqyWJ78FPQ0WFJ4ARETRKcfJYHSzj6YOLvzRBDSaUTu2d3oHV2TL5diJBzvKTU3IjxVuS/LwB7CM7v3E6pKS/PDZjsG2L7HptmHEKNtN4Mb+/WPYYAGzCWT+HBxIpbsoQgSIyUZgi/k5jwlJboMvk6XSCL7K3LKHFSKSRakWLVokatVuYofMjPyhWMPz1oBCltSGwQuvVVpXg9ADjHov2F+UmH64ul/KC4+aYhsojEOh1g8IKu8kdXxmUwDfcmcEd+/sTY5m99QopK0CiOg4tP0sFt2qMBqSzv9SWerN9Ig/fJwU655y/VYeqHZwxrZE18/TIBUZPA18Kp9ozpbbPOXOxVJVvvRDPHsBEfxhinfK3EBN2mx+z8PEBZR1ROwcj+MmiH8AbUA9rIxPKahdjJD74z
     learner_created: false
   - name: src/main.rs

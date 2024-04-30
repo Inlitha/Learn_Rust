@@ -15,9 +15,10 @@ files:
           length: 19
           offset: 163
         initialized_from_dependency: false
+        encrypted_possible_answer: XTss5oK3Vvu4Kiq4Z0j2qw==
         selected: false
         status: Solved
-        encrypted_possible_answer: XTss5oK3Vvu4Kiq4Z0j2qw==
+        is_visible: false
       - offset: 201
         length: 27
         placeholder_text: /*and the last part here*/
@@ -25,9 +26,10 @@ files:
           length: 26
           offset: 188
         initialized_from_dependency: false
+        encrypted_possible_answer: 3XQ+R2u5I4DrKZGYa+tM/w==
         selected: false
         status: Solved
-        encrypted_possible_answer: 3XQ+R2u5I4DrKZGYa+tM/w==
+        is_visible: false
     encrypted_text: sl3O59VlDkdl7u9JaiP8DLF0pS2bNhVANKUlUGUwiNH1bUAuGLE7kgssGr+ZKEQeHveYy76XSvxVSBqo/WGnW383f9DR0HCWqcUjHEJgYdDtZZTOmHbkTyZ8HtUt0R4TI1hdm4yZd0JjxFaVGDrWqTfGep/ic0u0REnOVgvH97wlGpdZYkI0Wzi/TpGkvi8SlGexgkOTtjUln+Ag0/sUTju4kziWIra+yi0ez1WvX7N0ju5M8vfBqbWjwaD8nZrhOB6o/lWlAk5WYrYh7GgOxIhMYhujhwnVqJU7I+QbVp8=
     learner_created: false
   - name: tests/tests.rs

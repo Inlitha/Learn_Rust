@@ -11,9 +11,10 @@ files:
           length: 29
           offset: 101
         initialized_from_dependency: false
+        encrypted_possible_answer: DSd5Y+Jz/Qr8fw/mfaiGpA==
         selected: true
         status: Solved
-        encrypted_possible_answer: DSd5Y+Jz/Qr8fw/mfaiGpA==
+        is_visible: false
       - offset: 215
         length: 40
         placeholder_text: // Put more fruits in your basket here!
@@ -21,9 +22,10 @@ files:
           length: 39
           offset: 229
         initialized_from_dependency: false
+        encrypted_possible_answer: MYy/3Tuw15jZoILD2yqWEH12p+Mz6P3se1gVlzRgbmHHY14bGQzaV4GrR09vXLpP5Tcz6gW9cWUV8YR0WC/duCFhI6ZkEg+GxskAA9NVPC83NJFWvFP7aoyu2/EaSyuA
         selected: true
         status: Solved
-        encrypted_possible_answer: MYy/3Tuw15jZoILD2yqWEH12p+Mz6P3se1gVlzRgbmHHY14bGQzaV4GrR09vXLpP5Tcz6gW9cWUV8YR0WC/duCFhI6ZkEg+GxskAA9NVPC83NJFWvFP7aoyu2/EaSyuA
+        is_visible: false
     encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63lseTgcxEakKsoDOUUwrlhPoURmbje8qOikNSzOKRi2GyIGVG1Jp1+vTKC0l9Ry6EIGas44U2XERIZFIrfw1FZe2YoJU1mdZSHfBSA0wRbKwXh1xSKBJ48+wFY9CoCTMS4EqqUFFrSeyYK/kF6jyoZXHuC08FwSfx8RyKxXbdAzpfIMl7v/7RZ84j2bzM7+F2JJSBop2nofgmVbWQm60EqLZbxj2WWCNK75dmNvDVGjbgMPUxdNaKKVjW9S3Vrv+shwQmMmKQcb/iu8v/XOsg0rFTxNSpUAT5txjo/3yEgvDFQL0xviZz8u2Qsa3BOVeudHkIUimsHmUTpoOYD/nYzlC
     learner_created: false
   - name: src/main.rs
