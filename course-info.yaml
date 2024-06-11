@@ -21,17 +21,17 @@ summary: "<p>This course contains small exercises aimed to familiarize you with 
   >git repo</a>.</p>"
 programming_language: Rust
 content:
-- Introduction
-- Common Programming Concepts
-- Understanding Ownership
-- "Structs, Methods, Enums, and Pattern Matching"
-- Modules
-- Common Collections
-- Error Handling
-- "Generic Types, Traits, and Lifetime"
-- Writing Automated Tests
-- Standard Library Types
-- Fearless Concurrency
-- Macros
+  - Introduction
+  - Common Programming Concepts
+  - Understanding Ownership
+  - "Structs, Methods, Enums, and Pattern Matching"
+  - Modules
+  - Common Collections
+  - Error Handling
+  - "Generic Types, Traits, and Lifetime"
+  - Writing Automated Tests
+  - Standard Library Types
+  - Fearless Concurrency
+  - Macros
 mode: Study
 feedback_link: https://plugins.jetbrains.com/plugin/16631-learn-rust/reviews
